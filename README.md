@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bakr-oukessou
 - 👀 I’m interested in web develepment and game develepment
 - 🌱 I’m currently learning Angular and Spring 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedIn: Bakr oukessou
 
 <!---
