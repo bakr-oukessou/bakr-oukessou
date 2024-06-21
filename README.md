@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bakr-oukessou
-- 👀 I’m interested in web develepment and game develepment
+- 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning Angular and Spring 
 - 📫 How to reach me linkedIn: Bakr oukessou
 
